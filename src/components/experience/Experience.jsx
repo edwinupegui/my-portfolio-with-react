@@ -27,7 +27,7 @@ const Experience = () => {
               <AiFillHtml5 className="experience__details-icon" />
               <div>
                 <h4>HTML</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
@@ -41,28 +41,28 @@ const Experience = () => {
               <SiJavascript className="experience__details-icon" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <FaReact className="experience__details-icon" />
               <div>
                 <h4>React</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
             <article className="experience__details">
               <FaNodeJs className="experience__details-icon" />
               <div>
                 <h4>Node JS</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
             <article className="experience__details">
               <GrMysql className="experience__details-icon" />
               <div>
                 <h4>MySQL</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
           </div>
@@ -75,7 +75,7 @@ const Experience = () => {
               <BsGithub className="experience__details-icon" />
               <div>
                 <h4>Git/GitHub</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
@@ -89,28 +89,28 @@ const Experience = () => {
               <FaNpm className="experience__details-icon" />
               <div>
                 <h4>NPM</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <SiGooglechrome className="experience__details-icon" />
               <div>
                 <h4>Chrome DevTools</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <AiFillSlackSquare className="experience__details-icon" />
               <div>
                 <h4>Slack</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <SiVisualstudiocode className="experience__details-icon" />
               <div>
                 <h4>VS Code</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
