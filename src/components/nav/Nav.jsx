@@ -18,24 +18,24 @@ const Nav = () => {
         className={activeNav === '#header' ? 'active' : ''}>
         <AiOutlineHome />
       </a>
-      <a
+      {/* <a
         href="#about"
         onClick={() => setActiveNav('#about')}
         className={activeNav === '#about' ? 'active' : ''}>
         <AiOutlineUser />
+      </a> */}
+      <a 
+        href="#experience" 
+        onClick={() => setActiveNav('#experience')} 
+        className={activeNav === '#experience' ? 'active' : ''}>
+        <GiSkills />
       </a>
       <a
         href="#testimonials"
         onClick={() => setActiveNav('#testimonials')}
         className={activeNav === '#testimonials' ? 'active' : ''}>
         <BiBook />
-      </a>
-      <a 
-        href="#experience" 
-        onClick={() => setActiveNav('#experience')} 
-        className={activeNav === '#experience' ? 'active' : ''}>
-        <GiSkills />
-      </a>  
+      </a> 
       <a href="#portfolio" 
         onClick={() => setActiveNav('#portfolio')} 
         className={activeNav === '#portfolio' ? 'active' : ''}>

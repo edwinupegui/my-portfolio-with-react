@@ -3,6 +3,7 @@ import './header.css'
 import CTA from './CTA'
 import ME from '../../assets/me.png'
 import HeaderSocials from './HeaderSocials'
+import About from '../about/About'
 
 const Header = () => {
   return (
@@ -14,10 +15,10 @@ const Header = () => {
         <CTA />
         <HeaderSocials />
 
-        
-        <div className="me">
+        <About />
+        {/* <div className="me">
           <img src={ME} alt="" />
-        </div>
+        </div> */}
 
         <a href="#contact" className="scroll__down">Scroll Down</a>
       </div>
