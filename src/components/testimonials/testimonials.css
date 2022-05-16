@@ -5,7 +5,7 @@
 }
 
 .client__avatar {
-  width: 4rem;
+  width: 6rem;
   aspect-ratio: 1/1;
   overflow: hidden;
   border-radius: 50%;
@@ -24,6 +24,7 @@
 .client__review {
   color: var(--color-light);
   font-weight: 300;
+  font-size: 14px;
   display: block;
   width: 80%;
   margin: 0.8rem auto 0;
